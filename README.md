@@ -1,4 +1,4 @@
-This project was built as a learning lessong from TheOdinProject
+This project was built as a learning lesson from TheOdinProject
 Here is a link to the project page http://www.theodinproject.com/ruby-programming/oop?ref=lnav
 
 Project 1: Tic Tac Toe
