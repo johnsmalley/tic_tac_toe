@@ -1,3 +1,7 @@
+# This is a simple Tic Tac Toe game that was built as part of The Odin Project
+# The website below was used to help create this program
+# https://codequizzes.wordpress.com/2013/10/25/creating-a-tic-tac-toe-game-with-ruby/
+
 class Array
 	def all_empty?
 		self.all? { |element| element.to_s.empty? }
